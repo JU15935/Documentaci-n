@@ -2,7 +2,7 @@
 # Proyecto: Marketplace de intercambio entre estudiantes.
 **Equipo:** Juan Miguel Sanchez Chaverra, Brayan Alexis Quebrada Castañeda y Matias Agudelo Tabares
 **Dominio elegido:** Marketplace de intercambio entre estudiantes  
-**Enlace Figma:**  
+**Enlace Figma:** https://www.figma.com/design/AR32Tq8Grn3vqZQgqwT7I7/Marketplace?node-id=1-3&t=Tp1Zl00SlU57X1BN-1 
 
 ## Persona
 - **Nombre:** Andrés Castillo  
